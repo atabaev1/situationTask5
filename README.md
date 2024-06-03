@@ -1,3 +1,26 @@
+# Task 1: Automating application deployment
+**Customer company:** E-commerce company "TechWave"
+
+
+
+
+# Screenshots
+![code](https://github.com/atabaev1/situationTask5/assets/105366009/748f5a05-a99a-496d-b199-07e1e2526e99)
+![contact](https://github.com/atabaev1/situationTask5/assets/105366009/a6e174b1-8150-4f0c-9d74-d9456d267d98)
+![news](https://github.com/atabaev1/situationTask5/assets/105366009/d7af3d4b-20b9-4cfe-a52e-3f48f63cbccd)
+
+![main](https://github.com/atabaev1/situationTask5/assets/105366009/c855dcdf-77c7-4994-bd7a-64af7b1d61a7)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
